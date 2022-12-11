@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deferredValue-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/deferredValue-hook/static/js/main.ba899ca7.js",
+    "index.html": "/deferredValue-hook/index.html",
+    "main.e6c13ad2.css.map": "/deferredValue-hook/static/css/main.e6c13ad2.css.map",
+    "main.ba899ca7.js.map": "/deferredValue-hook/static/js/main.ba899ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ba899ca7.js"
+  ]
+}
